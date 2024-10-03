@@ -1,0 +1,6 @@
+Model Name: sshleifer/distilbart-cnn-12-6
+Link: https://huggingface.co/sshleifer/distilbart-cnn-12-6
+...........................................................
+
+Dataset name: ccdv/arxiv-summarization
+Link: https://huggingface.co/datasets/ccdv/arxiv-summarization
